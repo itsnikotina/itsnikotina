@@ -17,7 +17,7 @@ Desenvolvedor **autodidata** que gosta de ir direto ao ponto. Meu foco é criar 
 ---
 
 ### 🛠️ Minha caixa de ferramentas
-`HTML5 / CSS3` • `JavaScript` • `Python` • `Automação` • `Cybersecurity` • `Linux` • `Git/GitHub` • `SQL` • `Supabase`
+`HTML5 / CSS3` • `JavaScript` • `Python` • `Automação` • `Cybersecurity` • `Git/GitHub` • `SQL` • `Supabase`
 
 ---
 
