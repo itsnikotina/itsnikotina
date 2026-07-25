@@ -1,4 +1,4 @@
-# Fala aí, eu sou o Niko! 👋
+# Opa, eu sou o Niko! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-NikoDev-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://itsnikotina.github.io/NikoDev/)
 [![Email](https://img.shields.io/badge/Email-nikodotdev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikodotdev@gmail.com)
